@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dharani Limmada</h1>
-<h3 align="center">A passionate Machine Learning and MERN Stack Developer</h3>
+<h3 align="center">A passionate Java Full Stack and Front End Developer</h3>
 <img align="right" alt="Coding" width"400" src="https://user-images.githubusercontent.com/102985224/211582827-8fd748d6-9181-4c5f-a620-76168b861a4d.gif">
 
 
@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **dharanilimmadaa@gmail.com**
 
-- ⚡ Fun fact **MERN stack Enthusiast**
+- ⚡ Fun fact **Full stack Enthusiast**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
