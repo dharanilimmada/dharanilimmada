@@ -6,17 +6,17 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dharani578" alt="dharani578" /></a> </p>
 
-- 🔭 I’m currently working on **Customer Segmentation Machine learning project**
+- 🔭 I’m currently working on **Image Style Transfer - CNN & Machine Learning project**
 
-- 🌱 I’m currently learning **React, Nodejs, Expressjs**
+- 🌱 I’m currently learning **React, Nodejs, Expressjs, Java, Javascript, Sql**
 
-- 📫 How to reach me **dharanilimmadaa@gmail.com**
+- 📫 How to reach me **limmadadharani@gmail.com**
 
-- ⚡ Fun fact **Full stack Enthusiast**
+- ⚡ Fun fact **Java Full stack Enthusiast**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/dharani limmada" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dharani limmada" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/dharanilimmada/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dharani limmada" height="30" width="40" /></a>
 <a href="https://instagram.com/dharani_12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dharani_12" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/dharani limmada" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="dharani limmada" height="30" width="40" /></a>
 </p>
