@@ -6,10 +6,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dharani578" alt="dharani578" /></a> </p>
 
-- 🔭 I’m currently working on **Image Style Transfer - CNN & Machine Learning project**
-
-- 🌱 I’m currently learning **React, Nodejs, Expressjs, Java, Javascript, Sql**
-
 - 📫 How to reach me **limmadadharani@gmail.com**
 
 - ⚡ Fun fact **Java Full stack Enthusiast**
